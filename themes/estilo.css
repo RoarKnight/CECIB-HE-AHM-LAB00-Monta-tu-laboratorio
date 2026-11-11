@@ -1,0 +1,22 @@
+/* @theme estilo */
+
+@import 'default';
+
+.imagen{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.imagen img{
+    width: 75%;
+    height: 250px;
+}
+
+h2{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 15px;
+  margin: 15px 0;
+}
